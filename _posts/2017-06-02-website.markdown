@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'website'
+date: 2017-06-02 14:37:34 +0800
+---
+### website list
+* [bilibili](http://bilibili.kankanews.com/)
+* [youtube](https://www.youtube.com/)
